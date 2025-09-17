@@ -1,4 +1,4 @@
-# Hi there, I'm Tuba 👋  
+# Hi there, I'm Murtaza 👋  
 
 🚀 **Data Scientist | Python Developer | AI Engineer | ML Enthusiast**  
 
