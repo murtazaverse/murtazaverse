@@ -61,13 +61,13 @@ Welcome to my little corner of GitHub! I’m passionate about building **data-dr
 ## 📫 Connect with Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/murtazaverse/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:YOUR.EMAIL@example.com">
+  <a href="mailto:murtazazaidi1@outlook.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/murtazaverse">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
 </p>  
