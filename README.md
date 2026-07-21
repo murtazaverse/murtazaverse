@@ -7,7 +7,7 @@ Welcome to my little corner of GitHub! I’m passionate about building **data-dr
 ---
 
 ## 🌟 About Me  
-- 🎓 Currently working as a **Student Intern (Python, Data Science, ML, LLMs)**  
+- 🎓 Currently working as a **Backend & AI Engineer (Python, Data Science, ML, LLMs)**  
 - 💼 Over **4 years of experience** in **Python Development, Data Science, and AI**  
 - 🧠 Strong interest in **applied machine learning, NLP, and computer vision**  
 - ⚡ Always exploring the intersection of **software engineering and AI research**  
